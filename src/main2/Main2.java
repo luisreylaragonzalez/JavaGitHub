@@ -11,7 +11,7 @@ public class Main2 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola UPJR");
+        System.out.println("Hola UPJR y Guanajuato");
     }
     
 }
